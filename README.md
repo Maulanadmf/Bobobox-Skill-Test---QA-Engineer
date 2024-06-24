@@ -1,6 +1,6 @@
 # To access the file, go to :
-1. Login page scenarios : AutomationTest > cypress > e2e > login.cy.js
-2. Transaction scenarios : AutomationTest > cypress > e2e > transaction.cy.js
+1. Login page scenarios : cypress > e2e > login.cy.js
+2. Transaction scenarios : cypress > e2e > transaction.cy.js
 
 # How to configure cypress
 1. Download and install NodeJS https://nodejs.org/en/download/
